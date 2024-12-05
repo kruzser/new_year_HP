@@ -4,9 +4,22 @@ header {
     
 }
 
-header img {
+.brbr{
+    display: flex;
+    justify-content: space-around;
+}
+.wand {
+   
     width: 200px;
-    height: 60px;
+    margin: 50px;
+   
+}
+
+.hat {
+   
+    width: 200px;
+    margin: 50px;
+   
 }
 
 header a {
