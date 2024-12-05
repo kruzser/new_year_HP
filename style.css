@@ -1,0 +1,97 @@
+header {
+    background-color: navy;
+    padding: 30px;
+    
+}
+
+header img {
+    width: 200px;
+    height: 60px;
+}
+
+header a {
+    color: navy;
+    background-color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    margin-left:20%;
+    margin-right:20%;
+}
+
+h2 {
+    color: rgb(240, 124, 100);
+    font-size: 25px;
+}
+
+p img {
+    height: 150px;
+    width: 200px;
+}
+
+img{
+    width: 300px;
+}
+
+main h1{
+    text-align: center;
+    color: navy;
+    border: 5px dashed navy;
+}
+
+h3, h4{
+    text-align: center;
+}
+
+img{
+    height: 150px;
+}
+
+.wish{
+    background-color: bisque;
+    margin-top:2px;
+    text-align: justify;
+}
+
+.recept1{
+    background-color: rgb(186, 250, 250);
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px dashed rgb(119, 207, 207);
+    text-align: justify;
+}
+
+.recept2{
+    background-color: rgb(186, 250, 210);
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px dashed  rgb(102, 205, 142);
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.recept3{
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 20px;
+    border: 2px dashed  rgb(206, 125, 109);
+    text-align: justify;
+    margin-top: 10px;
+}
+
+p{
+    padding: 10px 20px 10px 20px;
+}
