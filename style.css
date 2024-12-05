@@ -51,7 +51,9 @@ img{
 main h1{
     text-align: center;
     color: navy;
-    border: 5px dashed navy;
+    border-top: 3px dashed navy;
+    border-bottom: 3px dashed navy;
+    padding: 5px;
 }
 
 h3, h4{
