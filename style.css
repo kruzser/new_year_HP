@@ -1,6 +1,6 @@
 header {
     background-color: navy;
-    padding: 30px;
+    padding: 15px;
     
 }
 
@@ -17,11 +17,15 @@ header a {
     border-radius: 10px;
     font-size: 20px;
     padding: 10px;
+    width: 20%;
+    text-align: center;
 }
 
 nav{
     display: flex;
     justify-content: space-around;
+    border-top: white solid 2px;
+    padding-top: 15px;
 }
 
 header h1 {
